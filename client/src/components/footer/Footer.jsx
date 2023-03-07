@@ -9,8 +9,8 @@ function Footer() {
         <li><a href="#"><WhatsAppChatLink/></a></li>
 
         <li><a href="#">Correo</a></li>
-        <li><a href="#">Enlace 3</a></li>
-      </ul>
+      
+       </ul>
     </div>
   );
 }
