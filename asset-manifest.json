@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Gym/static/css/main.e11107c9.css",
-    "main.js": "/My-Gym/static/js/main.34b79e6a.js",
+    "main.js": "/My-Gym/static/js/main.d1b656aa.js",
     "index.html": "/My-Gym/index.html",
     "main.e11107c9.css.map": "/My-Gym/static/css/main.e11107c9.css.map",
-    "main.34b79e6a.js.map": "/My-Gym/static/js/main.34b79e6a.js.map"
+    "main.d1b656aa.js.map": "/My-Gym/static/js/main.d1b656aa.js.map"
   },
   "entrypoints": [
     "static/css/main.e11107c9.css",
-    "static/js/main.34b79e6a.js"
+    "static/js/main.d1b656aa.js"
   ]
 }
