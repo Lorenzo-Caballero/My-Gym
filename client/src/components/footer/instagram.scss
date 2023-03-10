@@ -1,0 +1,17 @@
+.instagram-logo {
+    background-color: #f732cc; // Verde WhatsApp
+    color: #FFFFFF; // Texto blanco
+    border: none; // Sin borde
+    border-radius: 5px; // Bordes redondeados
+    padding: 10px 20px; // Espacio dentro del botón
+    font-size: 16px; // Tamaño de fuente
+    text-align: center; // Alineación de texto
+    text-decoration: none; // Sin subrayado de enlace
+    display: inline-block; // Bloque de visualización
+    transition-duration: 0.3s; // Duración de la transición al pasar el ratón
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); // Sombra suave
+    &:hover {
+      background-color: #aa4aebd8; // Cambio de color al pasar el ratón
+      box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); // Sombra más intensa
+    }
+  }
