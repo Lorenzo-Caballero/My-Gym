@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/My-Gym/static/css/main.1b643035.css",
-    "main.js": "/My-Gym/static/js/main.1472623b.js",
-    "static/media/Bann.jpg": "/My-Gym/static/media/Bann.fd9f7452af71250139f9.jpg",
-    "static/media/Ban.jpg": "/My-Gym/static/media/Ban.5681508d24bca164017b.jpg",
-    "static/media/wa-whatsapp-icon.svg": "/My-Gym/static/media/wa-whatsapp-icon.7d425fff01b8701d777c8972407bf8a2.svg",
-    "static/media/instagram-round-color-icon.svg": "/My-Gym/static/media/instagram-round-color-icon.596a6370d6b98f53a3ff31a62d664501.svg",
-    "index.html": "/My-Gym/index.html",
-    "main.1b643035.css.map": "/My-Gym/static/css/main.1b643035.css.map",
-    "main.1472623b.js.map": "/My-Gym/static/js/main.1472623b.js.map"
+    "main.css": "/static/css/main.a9716d9e.css",
+    "main.js": "/static/js/main.3463ca78.js",
+    "static/media/wa-whatsapp-icon.svg": "/static/media/wa-whatsapp-icon.7d425fff01b8701d777c8972407bf8a2.svg",
+    "static/media/instagram-round-color-icon.svg": "/static/media/instagram-round-color-icon.596a6370d6b98f53a3ff31a62d664501.svg",
+    "index.html": "/index.html",
+    "main.a9716d9e.css.map": "/static/css/main.a9716d9e.css.map",
+    "main.3463ca78.js.map": "/static/js/main.3463ca78.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b643035.css",
-    "static/js/main.1472623b.js"
+    "static/css/main.a9716d9e.css",
+    "static/js/main.3463ca78.js"
   ]
 }
