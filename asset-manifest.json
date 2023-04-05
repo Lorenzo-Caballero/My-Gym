@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/My-Gym/static/css/main.a9716d9e.css",
-    "main.js": "/My-Gym/static/js/main.8d95d0e9.js",
+    "main.css": "/My-Gym/static/css/main.6bc2c917.css",
+    "main.js": "/My-Gym/static/js/main.9da5912d.js",
+    "static/media/Bann.jpg": "/My-Gym/static/media/Bann.fd9f7452af71250139f9.jpg",
     "static/media/wa-whatsapp-icon.svg": "/My-Gym/static/media/wa-whatsapp-icon.7d425fff01b8701d777c8972407bf8a2.svg",
     "static/media/instagram-round-color-icon.svg": "/My-Gym/static/media/instagram-round-color-icon.596a6370d6b98f53a3ff31a62d664501.svg",
     "index.html": "/My-Gym/index.html",
-    "main.a9716d9e.css.map": "/My-Gym/static/css/main.a9716d9e.css.map",
-    "main.8d95d0e9.js.map": "/My-Gym/static/js/main.8d95d0e9.js.map"
+    "main.6bc2c917.css.map": "/My-Gym/static/css/main.6bc2c917.css.map",
+    "main.9da5912d.js.map": "/My-Gym/static/js/main.9da5912d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9716d9e.css",
-    "static/js/main.8d95d0e9.js"
+    "static/css/main.6bc2c917.css",
+    "static/js/main.9da5912d.js"
   ]
 }
