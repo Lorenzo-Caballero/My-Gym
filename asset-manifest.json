@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/My-Gym/static/css/main.5579013a.css",
-    "main.js": "/My-Gym/static/js/main.02a18672.js",
+    "main.js": "/My-Gym/static/js/main.fd9b9cd6.js",
     "static/media/Bann.jpg": "/My-Gym/static/media/Bann.fd9f7452af71250139f9.jpg",
     "static/media/wa-whatsapp-icon.svg": "/My-Gym/static/media/wa-whatsapp-icon.7d425fff01b8701d777c8972407bf8a2.svg",
     "static/media/instagram-round-color-icon.svg": "/My-Gym/static/media/instagram-round-color-icon.596a6370d6b98f53a3ff31a62d664501.svg",
     "index.html": "/My-Gym/index.html",
     "main.5579013a.css.map": "/My-Gym/static/css/main.5579013a.css.map",
-    "main.02a18672.js.map": "/My-Gym/static/js/main.02a18672.js.map"
+    "main.fd9b9cd6.js.map": "/My-Gym/static/js/main.fd9b9cd6.js.map"
   },
   "entrypoints": [
     "static/css/main.5579013a.css",
-    "static/js/main.02a18672.js"
+    "static/js/main.fd9b9cd6.js"
   ]
 }
